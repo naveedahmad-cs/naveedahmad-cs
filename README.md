@@ -1,56 +1,64 @@
 # Naveed Ahmad
 
-Computer Science student at Government College University Faisalabad, focused on **data engineering** and **full-stack web/app development**.
+### I build the data infrastructure that turns raw data into clean, reliable, and usable insights.
 
-I turn messy data into clean, usable work — with Python, SQL, Pandas and NumPy — and build websites and apps with JavaScript, TypeScript, React, React Native, Next.js and Node.js. Every project below is public on GitHub, with real counted results.
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0a1120?style=for-the-badge&logo=databricks&logoColor=38bdf8) ![Python](https://img.shields.io/badge/Python-38bdf8?style=for-the-badge&logo=python&logoColor=0a1120) ![SQL](https://img.shields.io/badge/SQL-0a1120?style=for-the-badge&logo=mysql&logoColor=38bdf8) ![Pandas](https://img.shields.io/badge/Pandas-38bdf8?style=for-the-badge&logo=pandas&logoColor=0a1120)
 
-## Top Skills
+Computer Science student at Government College University Faisalabad, focused on **data engineering**.
 
-![Python Developer](https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-22c55e?style=for-the-badge&logo=databricks&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-38bdf8?style=for-the-badge&logo=mysql&logoColor=06121f)
+I work with Python, SQL, Pandas, and NumPy to clean messy data and turn it into clear, usable results. I build ETL pipelines, data warehouses, and simple data tools, and I work with Data Analysis, BI, Data Science, Machine Learning, and AI. I also build websites and apps with React, Next.js, Node.js, and Full-Stack Development, and I am learning Databricks and Apache Spark.
 
-- **Python Developer** — Python for data cleaning, ETL and scripting.
-- **Data Structures** — DSA and OOP fundamentals for clean, efficient code.
-- **Oracle Database** — Relational databases, SQL queries and design.
-- **SQL** — Queries, database design and analytics.
+I am open to freelance data tasks and learning opportunities.
 
 ## What I do
-- Data Engineering: clean messy CSV/Excel data (Data Cleaning) and build ETL pipelines with Python, C++, SQL, Pandas and NumPy, using Git for version control; design databases (Database Design) and build data warehouses (Data Warehousing) with MySQL and MongoDB
-- Data & Analytics: analyse data (Data Analysis), build data pipelines (Data Pipelines) and visualisations (Data Visualization) with Tableau, Power BI and Matplotlib, and work on Business Intelligence and Analytics Engineering
-- Data Science & AI: work on Data Science, Machine Learning, Deep Learning, AI Engineering, Generative AI, Agentic AI and AI Agents, and big data with PySpark, and build simple, checkable data tools
-- Web Development: build websites with JavaScript, TypeScript, HTML / CSS, React.js, Next.js, Node.js, Express.js, Redux.js, Flask, Django and WordPress, and connect them with REST APIs
-- App Development: build mobile apps with React Native and Full-Stack Development
-- Learning now: Databricks and Apache Spark for data pipelines (learning, not mastered)
+
+- **Data Engineering:** clean messy CSV/Excel data and build ETL pipelines with Python, C++, SQL, Pandas, and NumPy, using Git for version control; design databases and build data warehouses with MySQL, MongoDB, and Oracle Database
+- **Data & Analytics:** analyse data, build data pipelines and visualisations with Tableau, Power BI, and Matplotlib, and work on Business Intelligence and Analytics Engineering
+- **Data Science & AI:** work on Data Science, Machine Learning, Deep Learning, AI Engineering, Generative AI, Agentic AI, and AI Agents, and big data with PySpark
+- **Web Development:** build websites with JavaScript, TypeScript, HTML/CSS, React.js, Next.js, Node.js, Express.js, Redux.js, Flask, Django, and WordPress, and connect them with REST APIs
+- **App Development:** build mobile apps with React Native and Full-Stack Development
+- **Learning now:** Databricks and Apache Spark for data pipelines (learning, not mastered)
 
 ## Tech Stack
+
 ```
-Programming Languages → C++ · Python · JavaScript · TypeScript · SQL
-Data Engineering → Data Engineering · Data Cleaning · ETL · Data Pipelines · Data Warehousing · Database Design · MySQL · MongoDB
-Data Analysis & BI → Data Analysis · Data Visualization · Business Intelligence · Analytics Engineering · Tableau · Microsoft Power BI · Matplotlib
+Programming Languages → C++ · Python Developer · Data Structures · JavaScript · TypeScript · SQL
+
+Data Engineering → Data Engineering · Data Cleaning · Extract, Transform, Load (ETL) · Data Pipelines · Data Warehousing · Database Design · MySQL · MongoDB · Oracle Database
+
+Data Analysis & BI → Data Analysis · Data Visualization · Business Intelligence (BI) · Analytics Engineering · Tableau · Microsoft Power BI · Matplotlib
+
 Data Science, ML & AI → Data Science · Machine Learning · Deep Learning · AI Engineering · Generative AI · Agentic AI · AI Agents · PySpark · Pandas · NumPy
-Web Development → React.js · Next.js · Node.js · Express.js · Redux.js · Flask · Django · WordPress · HTML · CSS · REST APIs
+
+Web Development → React.js · Next.js · Node.js · Express.js · Redux.js · Flask · Django · WordPress · HTML · Cascading Style Sheets (CSS) · REST APIs
+
 App Development → React Native · Full-Stack Development
-Tools & Learning → Git · Excel (Tools); Databricks · Apache Spark (Learning, not mastered)
+
+Tools → Git · Excel
+
+Learning (not mastered) → Databricks · Apache Spark
 ```
 
 ## Featured Projects
 
 | Project | What it is | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [sales-data-cleaning](https://github.com/naveedahmad-cs/sales-data-cleaning) | Cleaned 500 messy sales rows to 432 clean rows — duplicates, missing values, invalid dates, mixed currency formats | Python, Pandas, NumPy |
 | [sales-etl-pipeline](https://github.com/naveedahmad-cs/sales-etl-pipeline) | ETL pipeline: cleaned sales data into a SQLite star-schema warehouse, with monthly, product, city and top-customer analytics — total sales 794,568.73 | Python, SQL, SQLite, Pandas |
 
 ## Journey
+
 - 2024–Present: BS Computer Science, Government College University Faisalabad
+
 - 2026: Built two public data projects on GitHub — sales-data-cleaning and sales-etl-pipeline
 
 ## Currently Learning
-- SQL — cleaning and querying data in SQLite
-- Next: PySpark and Databricks for data pipelines
+
+- Databricks — learning, for data pipelines (not mastered)
+- Apache Spark — learning, for data pipelines (not mastered)
 
 ## Connect
+
 - LinkedIn: https://www.linkedin.com/in/naveedahmad-cs/
 - GitHub: https://github.com/naveedahmad-cs
 
