@@ -11,28 +11,30 @@ I turn messy data into clean, usable work — and build websites and apps.
 
 
 ## What I do
-- Data Engineering: clean messy CSV/Excel data and build ETL pipelines with Python, SQL, Pandas and NumPy, using Git for version control
-- Data & Analytics: analyse data, design databases, build data pipelines and visualisations with Tableau and Power BI, and work on Business Intelligence and Analytics Engineering
-- Data Science & AI: work on Data Science, Machine Learning, AI Engineering, Generative AI and Agentic AI, and build simple, checkable data tools
-- Web Development: build websites with JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Redux.js, Flask, Django and WordPress
+- Data Engineering: clean messy CSV/Excel data (Data Cleaning) and build ETL pipelines with Python, C++, SQL, Pandas and NumPy, using Git for version control; design databases (Database Design) and build data warehouses (Data Warehousing) with MySQL and MongoDB
+- Data & Analytics: analyse data (Data Analysis), build data pipelines (Data Pipelines) and visualisations (Data Visualization) with Tableau, Power BI and Matplotlib, and work on Business Intelligence and Analytics Engineering
+- Data Science & AI: work on Data Science, Machine Learning, Deep Learning, AI Engineering, Generative AI, Agentic AI and AI Agents, and big data with PySpark, and build simple, checkable data tools
+- Web Development: build websites with JavaScript, TypeScript, HTML / CSS, React.js, Next.js, Node.js, Express.js, Redux.js, Flask, Django and WordPress, and connect them with REST APIs
 - App Development: build mobile apps with React Native and Full-Stack Development
 - Learning now: Databricks and Apache Spark for data pipelines (learning, not mastered)
 
 
 ## Tech Stack
 ```
-Data        →  Python · SQL · Pandas · NumPy · SQLite
-Web         →  JavaScript · TypeScript · React.js · Next.js · Node.js · Express.js · Redux.js · Flask · Django · WordPress
-App         →  React Native · Full-Stack Development
-Tools       →  Git · Excel
+Languages → C++ · Python · JavaScript · SQL
+Web Development → React.js · Node.js · HTML / CSS · REST APIs
+Databases → MySQL · MongoDB · Database Design · Data Warehousing
+Data, ML & AI → PySpark · Pandas · Matplotlib · Machine Learning · Deep Learning · AI Agents
+More → Data Engineering · NumPy · Data Cleaning · ETL · Data Pipelines · Data Analysis · Data Visualization · Business Intelligence · Analytics Engineering · Data Science · AI Engineering · Generative AI · Agentic AI · Tableau · Power BI · Git · TypeScript · Next.js · Express.js · Redux.js · Flask · Django · WordPress · React Native · Full-Stack Development · Excel
+Learning → Databricks · Apache Spark
 ```
 
 
 ## Featured Projects
 
-
 | Project | What it is | Stack |
 |---|---|---|
+
 | [sales-data-cleaning](https://github.com/naveedahmad-cs/sales-data-cleaning) | Cleaned 500 messy sales rows to 432 clean rows — duplicates, missing values, invalid dates, mixed currency formats | Python, Pandas, NumPy |
 | [sales-etl-pipeline](https://github.com/naveedahmad-cs/sales-etl-pipeline) | ETL pipeline: cleaned sales data into a SQLite star-schema warehouse, with monthly, product, city and top-customer analytics — total sales 794,568.73 | Python, SQL, SQLite, Pandas |
 
