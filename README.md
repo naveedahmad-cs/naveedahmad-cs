@@ -1,16 +1,15 @@
-## Hi there 👋
+# Naveed Ahmad
 
-<!--
-**naveedahmad-cs/naveedahmad-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Government College University Faisalabad, focused on data engineering.
 
-Here are some ideas to get you started:
+## What I do
+- Turn messy CSV and Excel data into clean, usable work with Python, SQL, Pandas, and NumPy
+- Write clear SQL queries
+- Build simple, checkable data tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently building
+Practical skills in Databricks and Apache Spark for data pipelines.
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/naveedahmad-cs/
+- GitHub: https://github.com/naveedahmad-cs
