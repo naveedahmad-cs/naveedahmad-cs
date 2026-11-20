@@ -21,12 +21,13 @@ I turn messy data into clean, usable work — and build websites and apps.
 
 ## Tech Stack
 ```
-Languages → C++ · Python · JavaScript · SQL
-Web Development → React.js · Node.js · HTML / CSS · REST APIs
-Databases → MySQL · MongoDB · Database Design · Data Warehousing
-Data, ML & AI → PySpark · Pandas · Matplotlib · Machine Learning · Deep Learning · AI Agents
-More → Data Engineering · NumPy · Data Cleaning · ETL · Data Pipelines · Data Analysis · Data Visualization · Business Intelligence · Analytics Engineering · Data Science · AI Engineering · Generative AI · Agentic AI · Tableau · Power BI · Git · TypeScript · Next.js · Express.js · Redux.js · Flask · Django · WordPress · React Native · Full-Stack Development · Excel
-Learning → Databricks · Apache Spark
+Programming Languages → C++ · Python · JavaScript · TypeScript · SQL
+Data Engineering → Data Engineering · Data Cleaning · ETL · Data Pipelines · Data Warehousing · Database Design · MySQL · MongoDB
+Data Analysis & BI → Data Analysis · Data Visualization · Business Intelligence · Analytics Engineering · Tableau · Microsoft Power BI · Matplotlib
+Data Science, ML & AI → Data Science · Machine Learning · Deep Learning · AI Engineering · Generative AI · Agentic AI · AI Agents · PySpark · Pandas · NumPy
+Web Development → React.js · Next.js · Node.js · Express.js · Redux.js · Flask · Django · WordPress · HTML · CSS · REST APIs
+App Development → React Native · Full-Stack Development
+Tools & Learning → Git · Excel (Tools); Databricks · Apache Spark (Learning, not mastered)
 ```
 
 
