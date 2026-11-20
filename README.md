@@ -11,7 +11,7 @@ I turn messy data into clean, usable work — and build websites and apps.
 
 
 ## What I do
-- Data Engineering: clean messy CSV/Excel data and build ETL pipelines with Python, SQL, Pandas and NumPy
+- Data Engineering: clean messy CSV/Excel data and build ETL pipelines with Python, SQL, Pandas and NumPy, using Git for version control
 - Data & Analytics: analyse data, design databases, build data pipelines and visualisations with Tableau and Power BI, and work on Business Intelligence and Analytics Engineering
 - Data Science & AI: work on Data Science, Machine Learning, AI Engineering, Generative AI and Agentic AI, and build simple, checkable data tools
 - Web Development: build websites with JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Redux.js, Flask, Django and WordPress
